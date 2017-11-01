@@ -1,0 +1,16 @@
+PODS:
+  - AKGitViewControllers (0.1.0)
+
+DEPENDENCIES:
+  - AKGitViewControllers (from `../`)
+
+EXTERNAL SOURCES:
+  AKGitViewControllers:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AKGitViewControllers: bdf182c7f31bb54d6c5be5eeb4bd216a23547e8f
+
+PODFILE CHECKSUM: 2c830e0342248e7bdedd08abd18824d26be7c327
+
+COCOAPODS: 1.4.0.beta.1
